@@ -1,10 +1,10 @@
-# 📊 Internship & Placement Analysis
+# Internship & Placement Analysis
 
 This project focuses on analyzing student data to identify key factors influencing internship and placement outcomes. It uses data analysis techniques to uncover patterns related to academic performance, skills, and training.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The goal of this project is to:
 - Analyze placement datasets
@@ -14,7 +14,7 @@ The goal of this project is to:
 
 ---
 
-## 📂 Dataset Features
+## Dataset Features
 
 The dataset includes:
 - CGPA
@@ -29,7 +29,7 @@ The dataset includes:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Pandas
@@ -39,16 +39,16 @@ The dataset includes:
 
 ---
 
-## 🔍 Key Analysis Performed
+## Key Analysis Performed
 
-- 📈 CGPA vs Placement Status
-- 💼 Internships vs Placement Outcome
-- 📊 Certifications vs Placement Success
-- 📉 Feature importance analysis
+- CGPA vs Placement Status
+- Internships vs Placement Outcome
+- Certifications vs Placement Success
+- Feature importance analysis
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - Students with higher CGPA tend to have better placement outcomes  
 - Internships alone do not guarantee placement  
@@ -57,7 +57,7 @@ The dataset includes:
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 ```bash
 # Clone the repository
